@@ -1,0 +1,12 @@
+/* EmployeeTable.css */
+
+.header-btn {
+  border-radius: 25px !important;
+  padding: 8px 20px !important;
+  font-weight: bold;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.styled-header {
+  display: none; /* Removed since we customized header directly in JSX */
+}
