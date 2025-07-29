@@ -19,7 +19,7 @@ const AdminPage = () => {
             variant="contained"
             color="success"
             size="large"
-            onClick={() => navigate('/employees')}
+            onClick={() => navigate('/user')}
           >
             Show Employee Data
           </Button>
